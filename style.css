@@ -1,0 +1,61 @@
+/* ----- GENERAL ----- */
+.main-blog {
+    text-align: justify;
+}
+
+/* NAVEGACIÓN */
+.navbar {
+    margin-bottom: 40px;
+    background-color: rgba(173, 173, 173, 0.2);
+    box-shadow: 0 4px 2px -2px rgba(173, 173, 173, 0.3);
+}
+
+/* ----- ENCABEZADO ----- */
+.heading {
+    margin: 25px auto;
+    padding: 50px;
+    background-color: rgba(173, 173, 173, 0.15);
+    border: 1px solid rgba(173, 173, 173, 0.2);
+    box-shadow: 0 4px 2px -2px rgba(173, 173, 173, 0.3);
+    text-align: center;
+}
+
+/* ----- POST PRINCIPAL ----- */
+.blog-post {
+    margin: 25px auto;
+    padding: 15px;
+    background-color: rgba(209, 209, 209, 0.1);
+    border: 1px solid rgba(209, 209, 209, 0.15);
+}
+
+.blog-post img {
+    width: 700px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.date {
+    margin: 10px auto;
+    color: #999;
+}
+
+/* ----- POST LATERAL ----- */
+.sidebar-element {
+    padding: 20px;
+}
+
+.archives {
+    list-style: circle;
+}
+
+.social-links {
+    list-style: none;
+}
+
+/* ----- FOOTER ----- */
+footer {
+    padding: 30px;
+    text-align: center;
+    background-color: rgba(180, 180, 180, 0.15);
+    box-shadow: 0px -2px 3px 0px rgba(155, 155, 155, 0.35);
+}
